@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace efimova_fifteens
+namespace fifteens_2_3
 {
     class Program
     {
